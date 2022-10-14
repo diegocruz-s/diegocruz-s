@@ -1,6 +1,6 @@
 ### Olá 👋, eu sou Diego Cruz
 
-- 🌱 Estudando TypeScript, Node e React
+- 🌱 Estudando Node e React
 - 🌍 Moro em Minas Gerais, Brasil
 - 📫 Você pode me contatar pelo email: diegoszcruz1001@gmail.com
 - 🧠 Adoro aprender coisas e me desafiar todos os dias
@@ -25,7 +25,7 @@
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
+  <img height="70em" src="https://icongr.am/devicon/express-original.svg?size=128&color=878787" />      
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -37,7 +37,7 @@
   <h3>Redes</h3>
   <a href="https://github.com/diegocruz-s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank />
   <a href="mailto:diegoszcruz1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://www.linkedin.com/in/diego-cruz-56436b248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/diegoscruz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  
 </div>
 
