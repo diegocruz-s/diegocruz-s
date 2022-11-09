@@ -1,6 +1,6 @@
 ### Olá 👋, eu sou Diego Cruz
 
-- 🌱 Estudando Node e React
+- 🌱 Estudando TypeScript
 - 🌍 Moro em Minas Gerais, Brasil
 - 📫 Você pode me contatar pelo email: diegoszcruz1001@gmail.com
 - 🧠 Adoro aprender coisas e me desafiar todos os dias
