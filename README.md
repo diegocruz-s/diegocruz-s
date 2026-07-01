@@ -24,7 +24,7 @@ Engenheiro de Software focado em desenvolvimento Backend e soluções Fullstack.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=00758F)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=4EA94B)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-css-333333?style=flat&logo=css&logoColor=663399)
 
 **Qualidade e Arquitetura**
 
