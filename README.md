@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" style="margin-top: 40px;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
-## Olá 👋, eu sou o Diego Cruz
+### Olá 👋, eu sou o Diego Cruz
 
 Engenheiro de Software focado em desenvolvimento Backend e soluções Fullstack. Desenvolvo APIs robustas, gerencio bancos de dados e busco sempre escrever código limpo e escalável.
 
